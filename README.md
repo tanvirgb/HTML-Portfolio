@@ -3,5 +3,4 @@ A portfolio website using HTML only.
 
 # How the Website Looks:
 
-![home-ss](https://github.com/tanvirgb/HTML-Portfolio/assets/155874294/0b3873c4-730d-4a1d-8be8-8e84da382e84)
-
+![home-ss](https://github.com/tanvirgb/HTML-Portfolio/assets/155874294/bee22545-c2ed-4caa-8a35-7e2b149accb1)
